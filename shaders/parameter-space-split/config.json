@@ -1,0 +1,5 @@
+{
+  "title": "ACP parameter space",
+  "views": ["stripPack", "resulting_pack", "invertedStrip"],
+  "layout": "split"
+}
